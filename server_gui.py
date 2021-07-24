@@ -32,7 +32,7 @@ window.title("Server")
 def genera_domande():
     questionID=rnd.randint(1, 20)
     questioner={
-        1:  "1~Qual e' la radice quadrata di 2?~1)1412 - 2)1.4141~1",
+        1:  "1~Qual e' la radice quadrata di 2?~1)1.412 - 2)1.4141~1",
         2:  "2~Quante sono le classi nel manuale base del giocatore di D&D 5e?~1)10 - 2)12~2",
         3:  "3~Quanti sono i vangeli apocrifi secondo la chiesa cristiana?~1)8 - 2)10~1",
         4:  "4~Quanti sono i film di Star Wars usciti?~1)9 - 2)11~2",
